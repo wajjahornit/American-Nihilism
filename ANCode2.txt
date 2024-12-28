@@ -115,7 +115,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1007,
         "fields": {
             "priority": 2,
-            "description": "Moderates or not, there’s still the elephant in the room: every pollster is projecting a landslide victory for Barack. If you want to win, you must tear him down, dismantling his persona and exposing the truth of his image. It’s a harsh reality, but without a fierce offensive, the path to victory will remain elusive. \n",
+            "description": "Moderates or not, there’s still the elephant in the room: every pollster is projecting a landslide victory for Barack. If you want to win, you must tear him down, dismantling his persona and exposing the truth of his image. It’s a harsh reality, but without a fierce offensive, the path to victory will blockaded.",
             "likelihood": 1
         }
     },
@@ -124,7 +124,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1006,
         "fields": {
             "priority": 2,
-            "description": "Florida’s Golden Boy, Senator Marco Rubio, has rowed unto the ticket, but his limited trust from the Tea Party creates a significant hole in your boat. As you discuss your washed-up running mate, you must highlight his strengths while addressing concerns within the base. so how do you introduce your running mate? \n",
+            "description": "Florida’s Golden Boy, Senator Marco Rubio, has rowed unto the ticket, but his limited trust from the Tea Party creates a significant hole in your boat. As you discuss your washed-up running mate, you must highlight his strengths while addressing concerns within the base. so how will you introduce your running mate? \n",
             "likelihood": 1
         }
     },
@@ -133,7 +133,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1001,
         "fields": {
             "priority": 3,
-            "description": "You’re the pilot, Romney, and the next step in taking down Obama is navigating the Electoral College. The question is: where to next? You need to identify critical battleground states and leverage your strengths to secure victory, as every decision counts in this crucial showdown.",
+            "description": "You’re the pilot, Romney, and the next step in taking down Obama is navigating the Electoral College. The question is: where to next? You need to identify critical battleground states and leverage your strengths to secure victory, because every decision counts in this crucial showdown.",
             "likelihood": 1
         }
     },
@@ -142,7 +142,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1019,
         "fields": {
             "priority": 4,
-            "description": "America went from a world policeman under Bush to a clumsy evil empire under Obama. In 2009, Obama pulled out of Iraq as quickly as it started, trying to appease anti-war activists and fulfill a campaign promise. This rushed withdrawal created chaos, allowing groups like ISIS and al-Qaeda to exploit the vacuum and prey on the remnants of the puppet government Bush established. What will you do about the Iraqi crisis?",
+            "description": "America shifted from being a world policeman under Bush to a clumsy, evil empire under Obama. In 2009, Obama pulled out of Iraq as quickly as the war had started, trying to appease anti-war activists and fulfill a campaign promise. This rushed withdrawal created chaos, allowing groups like ISIS and al-Qaeda to exploit the vacuum and prey on the remnants of the puppet government that Bush had established. What will you do about the Iraqi crisis?",
             "likelihood": 0.5
         }
     },
@@ -151,7 +151,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1011,
         "fields": {
             "priority": 5,
-            "description": "Tampa waves hit the shore as the 2012 RNC begins, Tea Party Delegates sit like ungrateful children, waiting for a spoonful-a sugar. A lineup of Tradition, as speaker’s representing Conservatism march across the nation, Son’s Of an American Revolution sick and tired, A Nation pocket deep in recession, watching its leftovers in Iraq and the ruins of Neo-Liberalism Microwave and fry, The Weight is a load, but you have the ball for first speaker.",
+            "description": "The Tampa waves hit the shore as the 2012 RNC begins. Tea Party delegates sit like ungrateful children, waiting for a spoonful of sugar. A lineup of tradition, as speakers representing conservatism march across the nation. Sons of the American Revolution, sick and tired. A nation pocket-deep in recession, watching its leftovers in Iraq and the ruins of neoliberalism microwave and fry. The weight is a load, but you have the ball for the first speech.",
             "likelihood": 1
         }
     },
@@ -160,7 +160,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1009,
         "fields": {
             "priority": 5,
-            "description": "McCain’s Speech sores and emboldens dissidents against you, Grandma’s pocketbooks across the nation supply Rudy with fund’s spent and bent on your destruction, social security money now being used as the gas to push into a Montana Offense, a blanket of moderates can only stay so warm, a dog biting it’s master can only go so long without a slap.",
+            "description": "McCain’s speech soars and emboldens dissidents against you. Grandma’s pocketbooks across the nation supply Paul with funds spent and bent on your destruction. Social Security money is now being used as the gas to fuel a Montana offense. A blanket of moderates can only stay so warm, and a dog biting its master can only go so long without a slap.",
             "likelihood": 1
         }
     },
@@ -241,7 +241,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1014,
         "fields": {
             "priority": 10,
-            "description": "Plastic Cold Smile, Sarah Palin has been quiet on both Yours and Rudy's Campaign, the silence is deafening, work with her, it could wipe you off the map, however it might save a little face with extremists. ",
+            "description": "Plastic Cold Smile, Sarah Palin has been quiet on both Yours and Paul's Campaign, the silence is deafening, work with her, it could wipe you off the map, however it might save a little face with extremists. ",
             "likelihood": 1
         }
     },
@@ -403,7 +403,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5004,
         "fields": {
             "question": 1001,
-            "description": "A quick stop in the Rust Belt is essential—these states are competitive this year. Let’s grab a drink in Ohio while we’re at it; every conversation counts as we build support and make our presence known in these crucial battlegrounds."
+            "description": "A quick stop in the Rust Belt is essential—these states are highly competitive this year. Let’s grab a drink in Ohio while we’re at it; every conversation counts as we build support and make our presence felt in these crucial battlegrounds."
         }
     },
     {
@@ -411,7 +411,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5013,
         "fields": {
             "question": 1006,
-            "description": "Rubio is a great senator from the Sunshine State! Drawing from his background as the son of Cuban immigrants, he has shown resilience and dedication in the Senate. With his experience and vision, he is poised to become the next Vice President of the United States, representing hope and opportunity for all Americans."
+            "description": "Rubio is a great senator from the Sunshine State! Drawing from his background as the son of Cuban immigrants, he has shown resilience and dedication in the Senate. With his experience and vision, he is poised to become the next vice president of the United States, representing hope and opportunity for all Americans."
         }
     },
     {
@@ -451,7 +451,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5024,
         "fields": {
             "question": 1009,
-            "description": "I can’t, we can’t look away, he’s dragging us, were gonna get massacred if he goes unmentioned, switch some ads, change some flight’s, Don’t let him get away.  "
+            "description": "Ron Paul?, this is the same guy who refused to endorse any republican after he got shot down in the primaries, and he wants to question my conservatism? well I'm a conservative alright, severely conservative, and look!, his newsletters, it's some horrific stuff that's in there, just ask yourself if you'd want that kind of man as your president."
         }
     },
     {
@@ -459,7 +459,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5025,
         "fields": {
             "question": 1009,
-            "description": "it’s so easy, this is the former mayor of New York were talking about, New York Values Vs A devout Mormon, just uh- talk abut values more in our ads and rallies, it'll be enough to bring em’ home right?"
+            "description": "well— actually i think we can use this as a stepping stool, Obama was already gonna stick me with these weirdos, let's press the gas and forget about them, cradle in the moderates, show voters were a reasonable moderate change ticket."
         }
     },
     {
@@ -467,7 +467,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5031,
         "fields": {
             "question": 1011,
-            "description": "Start her off with, Newt Gingrich, Speaker Of The House and the Commander of the Republican Revolution!, Smack on how the Obama Administration has completely fumbled Foreign Intervention and Barely fixed The Recession, Even Sprinkle some Comparison from Obama’s Policy’s to Communist China. Start The Script With “The Obama Administration and It’s Consciouses Been A Disaster For The United States Of America”"
+            "description": "Start her off with: Newt Gingrich, Speaker of the House and the commander of the Republican Revolution! Smack down how the Obama administration has completely fumbled foreign intervention and barely fixed the recession. Even sprinkle in some comparisons between Obama’s policies and those of Communist China. Start the script with: \"We the people call for a second American Revolution.\""
         }
     },
     {
@@ -475,7 +475,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5032,
         "fields": {
             "question": 1011,
-            "description": "Start her off with, John McCain, My Predecessor, Former Navy Pilot, Focus On Unity, glue the wound, touch on Obama has completely divided the nation with his radical agenda, whine and scream about tyranny and radicalism, quote some Abraham Lincoln about the Union and South, Start The Script With, “A House Divided Against Itself Can Not Stand!”"
+            "description": "Start her off with: John McCain, my predecessor, former Navy pilot. Focus on unity—glue the wound. Touch on how Obama has completely divided the nation with his radical agenda. Whine and scream about tyranny and radicalism. Quote some Abraham Lincoln about the Union and the South. start the script with: “A house divided against itself cannot stand.”"
         }
     },
     {
@@ -523,7 +523,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5060,
         "fields": {
             "question": 1019,
-            "description": "Intervention, The bloodshed caused by terrorists is beyond comprehension. As Americans, we understand all too well what it means to be victims of such brutal attacks. I call upon the United Nations to take a more active role in peacekeeping efforts. The United States will not remain passive while innocent lives are being mercilessly taken."
+            "description": "Intervention. The bloodshed caused by terrorists is beyond comprehension. As Americans, we understand all too well what it means to be victims of such brutal attacks. I call upon the United Nations to take a more active role in peacekeeping efforts. The United States will not remain passive while innocent lives are mercilessly taken."
         }
     },
     {
@@ -531,7 +531,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5061,
         "fields": {
             "question": 1019,
-            "description": "Non-Intervention, Unfortunately, the bloodshed in these civil conflicts does not justify the deployment of American troops on Iraqi soil. We must support the UN's efforts to aid the nation and recognize that it’s time to turn the page on Iraq."
+            "description": "Non-Intervention. Unfortunately, the bloodshed in these civil conflicts does not justify the deployment of American troops on Iraqi soil. We must support the UN's efforts to aid the nation and recognize that it’s time to turn the page on Iraq."
         }
     },
     {
@@ -539,7 +539,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5062,
         "fields": {
             "question": 1019,
-            "description": "Trade War, if they can’t eat, they can’t fight. We must order a blockade. Unfortunately, the U.N. may try to dissuade us, but we will not allow another Iraqi to die at the hands of another Iraqi. The market will save this nation."
+            "description": "Trade War. If they can’t eat, they can’t fight. We must order a blockade. Unfortunately, the U.N. may try to dissuade us, but we will not allow another Iraqi to die at the hands of another Iraqi. The market will save this nation."
         }
     },
     {
@@ -643,7 +643,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5102,
         "fields": {
             "question": 1030,
-            "description": "it's these goddam Rudy's voters, excuse me, they'll bring us all down if it means being a Conservative. bring em' home, we're done with them being on the crub."
+            "description": "it's these god darn Paul voters, excuse me, they'll bring us all down if it means being a Conservative. bring em' home, we're done with them being on the crub."
         }
     },
     {
@@ -691,7 +691,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5116,
         "fields": {
             "question": 1034,
-            "description": "Cut into the fat of Rudy's support, use TV, we could still hit a few moderates, just takes a little balance of roping in Rudy's Support and Moderates. "
+            "description": "Cut into the fat of Paul's support, use TV, we could still hit a few moderates, just takes a little balance of roping in Paul's Support and Moderates. "
         }
     },
     {
@@ -755,7 +755,7 @@ campaignTrail_temp.answers_json = [
         "pk": 20705,
         "fields": {
             "question": 1001,
-            "description": "Let’s thank our border patrol agents in the Southwest and appeal to Hispanic voters. Bringing Rubio out west could help us connect with the community, showcasing our commitment to security while highlighting Hispanic contributions. It’s a strategic move to strengthen our coalition and show we’re listening.\n"
+            "description": "Let’s thank our border patrol agents in the Southwest and appeal to Hispanic voters. Bringing Rubio out West could help us connect with the community, showcasing our commitment to security while highlighting Hispanic contributions. It’s a strategic move to strengthen our coalition and show that we’re listening."
         }
     },
     {
@@ -763,7 +763,7 @@ campaignTrail_temp.answers_json = [
         "pk": 20749,
         "fields": {
             "question": 1011,
-            "description": "Start her off with, Artur Davis, A Former Democrat from Ala-Blam, Cut into Liberal Hypocrisy, touch on how Mr Davis was once a firm believer in The Democratic Party but it’s now betrayed it’s promise, Start The Script With “The Democrats Have Gon-a Bust!”"
+            "description": "Start her off with: Artur Davis, a former Democrat from Ala-blam. Cut into liberal hypocrisy. Touch on how Mr. Davis was once a firm believer in the Democratic Party, but it has now betrayed its promise. Start the script with: “The Democrats have gon-a bust!”"
         }
     },
     {
@@ -8986,7 +8986,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5000,
             "candidate": 200,
-            "answer_feedback": "After setting down your phone on a brown nightstand, you wake up to the news of McCain reluctantly endorsing you. the tea party rallies around Rudy Giuliani to undermine you."
+            "answer_feedback": "After setting down your phone on a brown nightstand, you wake up to the news of McCain reluctantly endorsing you. The tea party rallies around Ron Paul to undermine you."
         }
     },
     {
@@ -8995,7 +8995,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5001,
             "candidate": 200,
-            "answer_feedback": "You look into the eyes of grandmothers and grandfathers, sensing their unease, knowing you’ll regret exploiting their fears. But for now, you’ve tamed the Tea Party, many moderates have turned away from your campaign, McCain gives a no comment on an endorsement,.\n"
+            "answer_feedback": "You look into the eyes of grandmothers and grandfathers, sensing their unease, knowing you’ll regret exploiting their fears. But for now, you’ve tamed the Tea Party, many moderates have turned away from your campaign, McCain gives a no comment on an endorsement.\n"
         }
     },
     {
@@ -9022,7 +9022,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5013,
             "candidate": 200,
-            "answer_feedback": "Bitter and backstabbed, the Tea Party feels like the whole immigrant thing was rubbed in their face, and they won’t let you forget it. Missouri State Republicans later Endorse Rudy.\n"
+            "answer_feedback": "Bitter and backstabbed, the Tea Party feels as though the whole immigrant issue was rubbed in their face, and they won’t let you forget it. Missouri state Republicans later endorse Paul."
         }
     },
     {
@@ -9031,7 +9031,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5014,
             "candidate": 200,
-            "answer_feedback": "Tea Party leaders quiet their rhetoric for a few weeks as CNN hints that you’ll be targeting the repeal of Roe v. Wade next. This focus raises eyebrows, as they consider the implications of such a bold move on the nation. "
+            "answer_feedback": "Tea Party leaders quiet their rhetoric for a few weeks as CNN hints that you’ll target Roe v. Wade during your presidency."
         }
     },
     {
@@ -9076,7 +9076,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5025,
             "candidate": 200,
-            "answer_feedback": "you feel like screaming, he’s stealing, he’s robbing you, it takes another hour just to sleep at night, it bothers you, more then you want to admit, you swallow a melatonin pill every night now. "
+            "answer_feedback": "You feel like screaming. He’s stealing. He’s robbing you. It takes another hour just to sleep at night. It bothers you more than you want to admit. You swallow a melatonin pill every night now."
         }
     },
     {
@@ -9139,7 +9139,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5060,
             "candidate": 200,
-            "answer_feedback": "After Iraq, most American's are hostile to the idea of another war, Gallup Polling shows 79% exactly, Pins and Medals, think of the Pins and Medals."
+            "answer_feedback": "After Iraq, most Americans are hostile to the idea of another war. Gallup polling shows exactly 79%. Pins and medals—think of the pins and medals."
         }
     },
     {
@@ -9148,7 +9148,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5061,
             "candidate": 200,
-            "answer_feedback": "Children weep and cry in confusion as, ISIS fighters close in on their homes, But Not Another Coffin."
+            "answer_feedback": "Children weep and cry in confusion as ISIS fighters close in on their homes. But not another star spangled coffin.\n\n"
         }
     },
     {
@@ -9274,7 +9274,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5113,
             "candidate": 200,
-            "answer_feedback": "are you stupid?"
+            "answer_feedback": "dude why would you say this"
         }
     },
     {
@@ -9301,7 +9301,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5116,
             "candidate": 200,
-            "answer_feedback": "The TV ads play you as a All-American god fearing patriot, candy to the Rudy's Guys, still it turns off most moderates, literally they shut off the TV."
+            "answer_feedback": "The TV ads play you as a All-American god fearing patriot, candy to the Paul's Guys, still it turns off most moderates, literally they shut off the TV."
         }
     },
     {
@@ -9373,7 +9373,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 20705,
             "candidate": 200,
-            "answer_feedback": "mitt, rubio is Cuban."
+            "answer_feedback": "dude rubio is cuban."
         }
     },
     {
@@ -9409,7 +9409,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5062,
             "candidate": 200,
-            "answer_feedback": "Ugly Americans clap their fat hands at the thought of whipping the U.N and unleashing American Capitalism in the middle east, In Iraq, a father scraps for pennies at his taxi job for bread and meat for his family, the thought of food being harder and harder to come by, he edges closer to radicalism. "
+            "answer_feedback": "Ugly Americans clap their fat hands at the thought of whipping the U.N. and unleashing American capitalism in the Middle East. In Iraq, a father scrapes for pennies at his taxi job to buy bread and meat for his family. The thought of food becoming harder and harder to come by edges him closer to radicalism."
         }
     },
     {
@@ -9436,7 +9436,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5068,
             "candidate": 200,
-            "answer_feedback": "She's Voting For Obama Now, Rudy Supporters look at you in a new light after this however. "
+            "answer_feedback": "She's Voting For Obama Now, Paul Supporters look at you in a new light after this however. "
         }
     },
     {
@@ -9445,7 +9445,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 5041,
             "candidate": 200,
-            "answer_feedback": "the following morning, you awake to a phone call from your advisors telling you, she endorsed Rudy, do you think this infighting will win us the election?"
+            "answer_feedback": "the following morning, you awake to a phone call from your advisors telling you, she endorsed paul, do you think this infighting will win us the election?"
         }
     },
     {
