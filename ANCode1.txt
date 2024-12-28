@@ -93,8 +93,8 @@ campaignTrail_temp.candidate_json = [
         "model": "campaign_trail.candidate",
         "pk": 202,
         "fields": {
-            "first_name": "Rudy",
-            "last_name": "Giuliani",
+            "first_name": "Ron",
+            "last_name": "Paul",
             "election": 20,
             "party": "Tea Party",
             "state": "New York",
@@ -456,30 +456,5 @@ document.getElementById("header").src = "https://preview.redd.it/dcb5rzu16h7e1.p
 document.body.background = "https://freight.cargo.site/w/3840/q/75/i/a9f227752a9ba3bc689092085a7e6eb87b787abd858c3e3f0aebdc6a40f138d0/Windows_Final_3840p_v10_opt.png";
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#d6d6d6!important;}</style>";
-campaignTrail_temp.musicOn = true
-campaignTrail_temp.musicSrc = "https://m1.afileditch.ch/okUFrFCERfuiwlHsQZMU.mp3"
-
-document.getElementById("music_player").innerHTML = "<button onclick='music_play()'>Play Soundtrack</button>     <button onclick='music_pause()'>Pause</button><br><div style='font-size:0.75em'><input type='radio' name='jukebox' value='song0' checked='' onchange='jukebox0()'>Pierce The Veil - Hold On Till May<input type='radio' name='jukebox' value='song1' onchange='jukebox1()'>Deftones - MX<input type='radio' name='jukebox' value='song1' onchange='jukebox2()'>Alex G - Gnaw</div><audio id='campaigntrailmusic' loop='true' style='display:none' src='' autoplay='false'></audio>"
-
-music_play = function() {
-    document.getElementById("campaigntrailmusic").play()
-}
-
-music_pause = function() {
-    document.getElementById("campaigntrailmusic").pause()
-}
-
-jukebox0 = function() {
-    campaignTrail_temp.musicSrc = "https://cdn.discordapp.com/attachments/791154319415181342/1318697386339733554/Hold_On_Till_May_-_Pierce_The_Veil.mp3?ex=67707325&is=676f21a5&hm=2edad8e02ccf2035916b32080f765cc7dce416e64a92cd4dafd58457b2454b41&"
-    document.getElementById('campaigntrailmusic').src = campaignTrail_temp.musicSrc
-}
-jukebox1 = function() {
-    campaignTrail_temp.musicSrc = "https://cdn.discordapp.com/attachments/791154319415181342/1318697385987145798/Deftones_-_MX_-_Lyrics_-_Korn__Deftones_Fans.mp3?ex=67707325&is=676f21a5&hm=dd929b23038885d4b479efa902cf08af5ab159aad715f3900774041a7992c627&"
-    document.getElementById('campaigntrailmusic').src = campaignTrail_temp.musicSrc
-}
-jukebox2 = function() {
-    campaignTrail_temp.musicSrc = "https://cdn.discordapp.com/attachments/791154319415181342/1321985050035617792/Gnaw_-_Alex_G.mp3?ex=67708b85&is=676f3a05&hm=f13e4551805c32ac44e6c598cb40c1bc1492373466d4539df5d54c5df785cb94&"
-    document.getElementById('campaigntrailmusic').src = campaignTrail_temp.musicSrc
-}
 
 //#endcode
