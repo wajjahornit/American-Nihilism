@@ -457,4 +457,29 @@ document.body.background = "https://freight.cargo.site/w/3840/q/75/i/a9f227752a9
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#d6d6d6!important;}</style>";
 
+campaignTrail_temp.musicOn = true
+campaignTrail_temp.musicSrc = "https://m1.afileditch.ch/okUFrFCERfuiwlHsQZMU.mp3"
+
+document.getElementById("music_player").innerHTML = "<button onclick='music_play()'>Play Soundtrack</button>     <button onclick='music_pause()'>Pause</button><br><div style='font-size:0.75em'><input type='radio' name='jukebox' value='song0' checked='' onchange='jukebox0()'>Pierce The Veil - Hold On Till May<input type='radio' name='jukebox' value='song1' onchange='jukebox1()'>Deftones - MX<input type='radio' name='jukebox' value='song1' onchange='jukebox2()'>Alex G - Gnaw</div><audio id='campaigntrailmusic' loop='true' style='display:none' src='' autoplay='false'></audio>"
+
+music_play = function() {
+    document.getElementById("campaigntrailmusic").play()
+}
+
+music_pause = function() {
+    document.getElementById("campaigntrailmusic").pause()
+}
+
+jukebox0 = function() {
+    campaignTrail_temp.musicSrc = "https://audio.jukehost.co.uk/IHZY8WuAR9Uu8rZGCWCC0ZbPiOQnhK4f"
+    document.getElementById('campaigntrailmusic').src = campaignTrail_temp.musicSrc
+}
+jukebox1 = function() {
+    campaignTrail_temp.musicSrc = "https://audio.jukehost.co.uk/ZPJYLr3Owwum1YrT38WMakUlN1ceBGC5"
+    document.getElementById('campaigntrailmusic').src = campaignTrail_temp.musicSrc
+}
+jukebox2 = function() {
+    campaignTrail_temp.musicSrc = "https://audio.jukehost.co.uk/R8dkv4z69ikbOSkQn1pSFNi8QSpCp9aS"
+    document.getElementById('campaigntrailmusic').src = campaignTrail_temp.musicSrc
+}
 //#endcode
