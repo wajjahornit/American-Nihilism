@@ -467,7 +467,7 @@ campaignTrail_temp.answers_json = [
         "pk": 5031,
         "fields": {
             "question": 1011,
-            "description": "Start her off with: Newt Gingrich, Speaker of the House and the commander of the Republican Revolution! Smack down how the Obama administration has completely fumbled foreign intervention and barely fixed the recession. Even sprinkle in some comparisons between Obama’s policies and those of Communist China. Start the script with: \"We the people call for a second American Revolution.\""
+            "description": "Start her off with: Newt Gingrich, Speaker of the House and the commander of the Republican Revolution! smack down on how the Obama administration has completely fumbled foreign intervention and barely fixed the recession. Even sprinkle in some comparisons between Obama’s policies and those of Communist China. Start the script with: \"We the people call for a second American Revolution.\""
         }
     },
     {
